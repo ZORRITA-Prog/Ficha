@@ -1,0 +1,76 @@
+┏ •──────────────────────────────────────────────• ┓
+D A T O S   O O C
+┗ •──────────────────────────────────────────────• ┛
+┌──────────────────────────────────────────┐
+│ ✦ Nombre real o de usuario:              │
+│ ✦ Edad:                                  │
+│ ✦ Género / Pronombres:                   │
+│ ✦ Estilo de rol:                         │
+│ ✦ Disponibilidad:                        │
+└──────────────────────────────────────────┘
+◈ Gustos (OOC):
+•
+•
+◈ Disgustos (OOC):
+•
+•
+◈ Límites / Lo que no roleo:
+•
+•
+┏ •──────────────────────────────────────────────• ┓
+D A T O S   D E L   P E R S O N A J E
+┗ •──────────────────────────────────────────────• ┛
+[ I. IDENTIFICACIÓN BÁSICA ]
+─────────────────────────────────────────────────
+✦ Nombre completo:
+✦ Alias o apodo:
+✦ Edad aparente / real:
+✦ Género y pronombres:
+✦ Orientación sexual:
+✦ Ocupación actual:
+✦ Afiliación o facción:
+[ II. APARIENCIA FÍSICA ]
+─────────────────────────────────────────────────
+✦ Altura y complexión:
+✦ Cabello y ojos:
+✦ Tono de piel:
+✦ Rasgos distintivos:
+✦ Estilo de indumentaria:
+✦ Postura y presencia:
+[ III. PSICOLOGÍA Y PERSONALIDAD ]
+─────────────────────────────────────────────────
+✦ Descripción general:
+✦ Virtudes:
+•
+•
+✦ Defectos:
+•
+•
+✦ Gustos del personaje:
+•
+•
+✦ Disgustos del personaje:
+•
+•
+✦ Miedos y fobias:
+✦ Motivaciones:
+[ IV. HISTORIA Y TRASFONDO ]
+─────────────────────────────────────────────────
+✦ Lugar de origen:
+✦ Biografía:
+[ V. HABILIDADES Y COMBATE ]
+─────────────────────────────────────────────────
+✦ Capacidades físicas:
+✦ Capacidades mentales:
+✦ Poderes, magia o técnicas:
+✦ Debilidades de combate:
+[ VI. EQUIPAMIENTO Y PERTENENCIAS ]
+─────────────────────────────────────────────────
+✦ Objetos cotidianos:
+✦ Posesiones valiosas:
+✦ Armamento:
+[ VII. EXTRAS Y CURIOSIDADES ]
+─────────────────────────────────────────────────
+✦ Datos curiosos:
+✦ Tema musical (OST):
+✦ Faceclaim / Referencia visual:
